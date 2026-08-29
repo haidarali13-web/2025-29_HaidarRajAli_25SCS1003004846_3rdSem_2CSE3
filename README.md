@@ -103,12 +103,12 @@ Insights & Documentation
 > stack. Add the exact tools used in the internship before final
 > submission.
 
--   **Programming Language:** `________________________`
--   **Data Analysis Libraries:** `________________________`
--   **Visualization Tools:** `________________________`
--   **Dashboard / BI Tool:** `________________________`
--   **Database / Query Tool:** `________________________`
--   **Other Tools:** `________________________`
+-   **Programming Language:** `Phyton`
+-   **Data Analysis Libraries:** `Pandas, Numpy`
+-   **Visualization Tools:** `Matplotlib, Seaborn`
+-   **Dashboard / BI Tool:** `Poer BI`
+-   **Database / Query Tool:** `SQL`
+-   **Other Tools:** `Jupyter Notebook, GitHub`
 
 ## 📈 Performance Evaluation
 
